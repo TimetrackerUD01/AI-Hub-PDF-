@@ -1,0 +1,13 @@
+User-agent: *
+Allow: /
+Sitemap: https://aihub-pdf.onrender.com/sitemap.xml
+
+# SEO optimized for Thai search engines
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot  
+Allow: /
+
+User-agent: YandexBot
+Allow: /

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://aihub-pdf.onrender.com/</loc>
+    <xhtml:link rel="alternate" hreflang="th" href="https://aihub-pdf.onrender.com/?lang=th"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aihub-pdf.onrender.com/?lang=en"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aihub-pdf.onrender.com/"/>
+    <lastmod>2024-06-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://aihub-pdf.onrender.com/compress-pdf</loc>
+    <xhtml:link rel="alternate" hreflang="th" href="https://aihub-pdf.onrender.com/compress-pdf?lang=th"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aihub-pdf.onrender.com/compress-pdf?lang=en"/>
+    <lastmod>2024-06-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://aihub-pdf.onrender.com/pdf-to-images</loc>
+    <xhtml:link rel="alternate" hreflang="th" href="https://aihub-pdf.onrender.com/pdf-to-images?lang=th"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aihub-pdf.onrender.com/pdf-to-images?lang=en"/>
+    <lastmod>2024-06-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://aihub-pdf.onrender.com/images-to-pdf</loc>
+    <xhtml:link rel="alternate" hreflang="th" href="https://aihub-pdf.onrender.com/images-to-pdf?lang=th"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aihub-pdf.onrender.com/images-to-pdf?lang=en"/>
+    <lastmod>2024-06-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://aihub-pdf.onrender.com/about</loc>
+    <xhtml:link rel="alternate" hreflang="th" href="https://aihub-pdf.onrender.com/about?lang=th"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aihub-pdf.onrender.com/about?lang=en"/>
+    <lastmod>2024-06-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+</urlset>

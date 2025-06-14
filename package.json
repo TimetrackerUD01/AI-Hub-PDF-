@@ -1,0 +1,27 @@
+{
+  "name": "aihub-pdf",
+  "version": "1.0.0",
+  "description": "ไอแฮบPDF - ระบบแปลงไฟล์ PDF ออนไลน์",
+  "scripts": {
+    "dev": "concurrently \"cd server && npm run dev\" \"cd client && npm start\"",
+    "build": "cd client && npm run build",
+    "start": "cd server && npm start",
+    "heroku-postbuild": "cd client && npm install && npm run build"
+  },
+  "keywords": [
+    "pdf",
+    "converter",
+    "compress",
+    "react",
+    "express",
+    "thai"
+  ],
+  "author": "ไอแฮบPDF Team",
+  "license": "MIT",
+  "devDependencies": {
+    "concurrently": "^8.2.2"
+  },
+  "dependencies": {
+    "pdf-lib": "^1.17.1"
+  }
+}
